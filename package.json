@@ -1,0 +1,7 @@
+{
+  "name": "hello-botkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hiroki Ishiwatari",
+  "license": "MIT"
+}
