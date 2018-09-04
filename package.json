@@ -5,6 +5,16 @@
   "author": "Hiroki Ishiwatari",
   "license": "MIT",
   "dependencies": {
-    "botkit": "^0.6.16"
+    "botkit": "^0.6.16",
+    "dotenv": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon"
   }
 }
